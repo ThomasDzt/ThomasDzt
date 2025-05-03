@@ -21,11 +21,11 @@ Passionate about video games, especially the J-RPG genre, a big fan of manga and
 
 ## 📫 Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/thomas-durizot-07ab23305" target="_blank">
+
+  LinkedIn profile : <a href="https://www.linkedin.com/in/thomas-durizot-07ab23305" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  <a href="https://github.com/ThomasDzt" target="_blank">
+  GitHub profile : <a href="https://github.com/ThomasDzt" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" title="GitHub"/>
   </a>
 </p>
