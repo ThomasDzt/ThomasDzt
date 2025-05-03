@@ -1,4 +1,4 @@
-# Casting my net 🕸️ on the sea of code 🌊! Come networking and catching bugs with me! 💻🦋🎣"
+# Casting my net 🕸️ on the sea of code 🌊! Come networking and catching bugs with me! 💻🦋🎣
 
 ## 🎯 About Me
 
@@ -10,10 +10,17 @@ Previously completed a Master's degree in Oceanography, with a focus on marine b
 
 ## 🛠️ Skills
 
-- Basic algorithmic knowledge and introductory Python programming [![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)]
-- Basic understanding of SQL [![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)]
-- Some knowledge of statistical analysis with R [![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)]
-- Beginner in COBOL programming [![COBOL](https://img.shields.io/badge/COBOL-blue?logo=codeforces&logoColor=white)]
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="SQL" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" alt="R" title="R"/>
+  <img src="https://img.shields.io/badge/COBOL-blue?logo=codeforces&logoColor=white" alt="COBOL" title="COBOL"/>
+</p>
+
+- Basic algorithmic knowledge and introductory Python programming  
+- Still learning SQL  
+- Some knowledge of statistical analysis with R  
+- Beginner in COBOL programming  
 
 ## 🎮 Hobbies
 
@@ -21,6 +28,11 @@ Passionate about video games, especially the J-RPG genre, a big fan of manga and
 
 ## 📫 Contact
 
-Feel free to connect with me through GitHub or reach out via my LinkedIn for further discussions.
- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](www.linkedin.com/in/thomas-durizot-07ab23305)
- [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/ThomasDzt)
+<p>
+  <a href="https://www.linkedin.com/in/thomas-durizot-07ab23305" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ThomasDzt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" title="GitHub"/>
+  </a>
+</p>
