@@ -11,13 +11,13 @@ Previously completed a Master's degree in Oceanography, with a focus on marine b
 ## 🛠️ Skills
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" title="Python"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="SQL" title="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" alt="R" title="R"/>
   <img src="https://img.shields.io/badge/COBOL-blue?logo=codeforces&logoColor=white" alt="COBOL" title="COBOL"/>
 </p>
 
-- Basic algorithmic knowledge and introductory Python programming  
+- Basic algorithmic knowledge and introductory Python programming  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" title="Python"/>
 - Still learning SQL  
 - Some knowledge of statistical analysis with R  
 - Beginner in COBOL programming  
