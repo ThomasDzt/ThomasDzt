@@ -4,9 +4,9 @@
 
 Currently seeking a job to develop my programming skills and pursue a career in software development.
 
-## 🐟 Academic Background in Oceanography
+## 📘 What I'm Working On
 
-Previously completed a Master's degree in Oceanography, with a focus on marine biology and data analysis. My work involved studying fish populations, analyzing otoliths, and conducting statistical research.
+I'm currently deepening my programming knowledge through a COBOL developer training in active pedagogy. My goal is to gain practical experience in software development, improve my problem-solving skills, and build a solid foundation to enter the IT industry.
 
 ## 🛠️ Skills
 
@@ -14,6 +14,12 @@ Previously completed a Master's degree in Oceanography, with a focus on marine b
 - Basic understanding of SQL <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="30" alt="SQL" title="SQL"/>
 - Some knowledge of statistical analysis with R <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" alt="R" title="R"/> 
 - Beginner in COBOL programming  <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63018724eab2481fa8f88ef4_1d1684aa.png" width="30" alt="COBOL" title="COBOL"/>
+
+
+## 🐟 Academic Background in Oceanography
+
+Previously completed a Master's degree in Oceanography, with a focus on marine biology and data analysis. My work involved studying fish populations, analyzing otoliths, and conducting statistical research.
+
 
 ## 🎮 Hobbies
 
